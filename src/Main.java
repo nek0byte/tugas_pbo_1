@@ -107,6 +107,7 @@ public class Main {
     }
 
     private static void data() {
+        // Sample data
         matkul.put("MK001", new Matkul("MK001", "AlgoDat", 3));
         matkul.put("MK002", new Matkul("MK002", "BasDat", 3));
         matkul.put("MK003", new Matkul("MK003", "PBO", 3));
